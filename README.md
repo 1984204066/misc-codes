@@ -3,6 +3,7 @@
 - [备份邮箱的脚本](#1)
 - [文字方向](#2)
 - [msg serialization](#3)
+- [boost base64](#4)
 <a id='1'></a>
 ## 备份邮箱的脚本
 ref:  
@@ -16,3 +17,8 @@ ref:
 
 <a id='3'></a>
 ## msg serialization
+完全不能编译。
+
+<a id='4'></a>
+## boost base64
+c++ --std=c++17 boost-base64.cxx
